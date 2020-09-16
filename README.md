@@ -15,6 +15,7 @@ e muitas outras...
 
 
 ### Certifique-se de que tenha o ambiente necessário para executar o App, segue link para configuração do embiente
+* [Configuração do ambiente](https://react-native.rocketseat.dev/) 
 
 ### Instalação
 
