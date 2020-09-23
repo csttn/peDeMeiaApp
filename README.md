@@ -10,6 +10,7 @@ App criado com proposidto de educação financeira para trabalhos acadêmicos da
 * **moment**
 * **react-native-camera**
 * **react-native-navigation**
+* **jest**
 * **react-native-svg**
 e muitas outras...
 
