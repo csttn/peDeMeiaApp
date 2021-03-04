@@ -1,4 +1,4 @@
-# peDeMeiaApp
+# peDeMeiaApp (app em desenvolvimento)
 
 App criado com proposidto de educação financeira para trabalhos acadêmicos da FIAP
 
